@@ -1,0 +1,6 @@
+{
+  "name": "QuickNotes - Simple Online Note Taking",
+  "description": "Create, edit, complete, and search notes directly in your web browser with QuickNotes. Fast, minimal, and automatically saved to your local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
